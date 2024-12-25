@@ -5,6 +5,12 @@ A Chrome extension that helps you identify fonts on any webpage with a simple ho
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Version](https://img.shields.io/badge/version-1.0.0-green.svg)
 
+## 📸 Preview
+
+Here's how Font Detective looks on macOS:
+
+![Font Detective Preview](/preview.png)
+
 ## ✨ Features
 
 - 🎯 Real-time font detection
@@ -54,4 +60,4 @@ MIT License - feel free to use it in your projects!
 
 ## 🤝 Contributing
 
-Pull requests are welcome! Feel free to contribute to make Font Detective even better.
+Pull requests are welcome! Feel free to contribute to make Font Detective even better!
